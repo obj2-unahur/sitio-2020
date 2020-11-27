@@ -4,7 +4,7 @@ descripcion: |
   Cerramos el ciclo lectivo recuperando lo que les haya quedado pendiente de los dos parciales.
 
 entrega:
-  fecha: "2020-11-23 23:59"
+  fecha: "2020-12-02 23:59"
   ejercicios:
   - name: Caralibro (recuperatorio primer parcial)
     repo: obj2-unahur/caralibro
