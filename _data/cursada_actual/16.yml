@@ -1,0 +1,11 @@
+titulo: El último empujón
+
+descripcion: |
+  Cerramos el ciclo lectivo recuperando lo que les haya quedado pendiente de los dos parciales.
+
+entrega:
+  fecha: "2020-11-23 23:59"
+  ejercicios:
+  - name: Caralibro (recuperatorio primer parcial)
+    repo: obj2-unahur/caralibro
+    classroom: https://classroom.github.com/g/ZlkiaXpx
