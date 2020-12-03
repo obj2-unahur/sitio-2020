@@ -1,0 +1,11 @@
+titulo: Integrador
+
+descripcion: |
+  Miren la cartelera en Discord para saber qué ejercicio(s) les corresponde hacer.
+
+entrega:
+  fecha: "2020-12-14 23:59"
+  ejercicios:
+  - name: Caralibro - Integrador
+    repo: obj2-unahur/caralibro
+    classroom: https://classroom.github.com/a/1ZO3ueZy
