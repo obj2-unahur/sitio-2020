@@ -1,0 +1,17 @@
+titulo: "Clase Bonus: Introducción a Android"
+
+descripcion: |
+  Nos visitó Rodrigo Alfonso, amigo de la casa y programador Android hace ya varios años. Nos mostró el diseño que habíamos hecho en el ejercicio de Países se pudo reutilizar casi por completo transformándolo en una aplicación Android.
+
+  Les dejamos más abajo el código que hizo Rodri y el video de la clase. Para poder ejecutarlo (en el emulador o en un celu posta) van a tener que bajarse el [Android Studio](https://developer.android.com/studio/), que es básicamente un Idea con varios plugins de Android.
+
+videos:
+  - url: https://youtu.be/Hw9-O1BZwGg
+    nombre: "Cómo transformar una aplicación de consola en una app Android"
+    descripcion: |
+      Entre problemas técnicos y pifies en la grabación, el video quedó más o menos. Recomendamos bajarse el Android Studio y probar el código de Rodri.
+
+ejercicios:
+  - name: Países impostores en Android
+    repo: obj2-unahur/paises-impostores-android
+    comentarios: Es la versión resuelta que se ve en la clase.
